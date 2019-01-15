@@ -1,0 +1,4 @@
+Tips:
+没有www，表示解析到http://zuobangliangpin.com
+请求流程为：
+http://www.zuobangliangpin.com --> http://zblp.github.io --> http://zuobangliangpin.com
